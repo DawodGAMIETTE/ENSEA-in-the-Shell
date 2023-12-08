@@ -31,3 +31,4 @@ To answer the question, we will compare the entered command with "exit" using th
 By strategically using the `write()` function in the code, we display the desired return code.
 
 ## Q5) Measurement of the command execution time using the call clock_gettime
+To determine the execution time of the entered command, we will use the `clock_gettime(CLOCK_MONOTONIC, &start)` function, which will store the clock value at the time of its execution in the variable `start`. Therefore, it is sufficient to execute this function twice, once just before our command and the other time just after.
