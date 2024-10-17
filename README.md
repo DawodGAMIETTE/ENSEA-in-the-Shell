@@ -1,4 +1,4 @@
-# Synthesys Practical Work – Ensea in the Shell (FRANCILLONNE Radji/GAMIETTE David)
+# Synthesys Practical Work – ENSEA in the Shell (FRANCILLONNE Radji/GAMIETTE David)
 Objectives : Develop a tiny shell, that displays exit codes and execution times of launched
 programs.
 
